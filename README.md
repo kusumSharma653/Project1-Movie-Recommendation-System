@@ -1,10 +1,10 @@
-##📽️ Movie Recommendation System
+##Movie Recommendation System
 A full-stack movie recommendation system that suggests similar movies using machine learning techniques. Built with Python (Flask) on the backend and React (Vite + Tailwind CSS) on the frontend.
 
-#🚀 Features
+#Features
 🎬 Recommend top 5 movies based on selected input
 
-#⚙️ ML-based similarity detection using cosine similarity
+#ML-based similarity detection using cosine similarity
 
 📦 React frontend styled with Tailwind CSS
 
@@ -14,7 +14,7 @@ A full-stack movie recommendation system that suggests similar movies using mach
 
 📂 Large model files tracked using Git LFS
 
-#🛠️ Tech Stack
+#Tech Stack
 Frontend: React, Vite, Tailwind CSS
 
 Backend: Python, Flask
@@ -23,7 +23,7 @@ Machine Learning: Pandas, Scikit-learn
 
 Version Control: Git, GitHub, Git LFS
 
-#📁 Project Structure
+#Project Structure
 
 movie-recommendation-system/
 │
@@ -47,7 +47,7 @@ movie-recommendation-system/
 └── README.md
 
 
-#⚙️ How to Run the Project
+#How to Run the Project
 🔧 1. Clone the repository
 
 git clone https://github.com/yourusername/movie-recommendation-system.git
