@@ -50,7 +50,7 @@ movie-recommendation-system/
 #How to Run the Project
 🔧 1. Clone the repository
 
-git clone https://github.com/yourusername/movie-recommendation-system.git
+git clone https://github.com/kusumSharma653/movie-recommendation-system.git
 cd movie-recommendation-system
 
 🧪 2. Run the Backend (Flask + Python)
